@@ -14,3 +14,8 @@ g=complex(3.9)
 print(g)
 h=(4+6)
 print(h)
+i="This is cool"
+print(i)
+first_name='Razib'
+last_name='Ahmad'
+print(first_name,last_name)
