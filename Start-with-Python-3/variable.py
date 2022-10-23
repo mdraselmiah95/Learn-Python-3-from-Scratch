@@ -71,3 +71,7 @@ List=list("Rasel")
 print(List)
 list_one=list("MY name is Rasel miah")
 print(list_one)
+
+tuple_one="Jack"
+print(list(tuple_one))
+print(tuple(tuple_one))
