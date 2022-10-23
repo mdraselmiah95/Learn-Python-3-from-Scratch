@@ -25,4 +25,16 @@ print(full_name)
 if(5>2):
     print("Five is greater than two!")
 if(3<5):
-    print("Three is smaller than five!")    
+    print("Three is smaller than five!")  
+
+# This is python comment   
+
+"""
+This is a comment
+written in
+more than just one line
+"""
+num_one=30
+num_two=50
+sum=num_one+num_two
+print(sum)
