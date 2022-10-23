@@ -75,3 +75,15 @@ print(list_one)
 tuple_one="Jack"
 print(list(tuple_one))
 print(tuple(tuple_one))
+
+name='Rasel'
+print(name[3])
+
+print(type(True))
+print(type(False))
+
+print(5>9)
+print(9>5)
+
+set1=set([1,2,4,'Rasel',32,0,2,"rasel","Rasel",9,3,6,3,2,5,9,8,6,"is ","a",34,46,6,"programmer"])
+print(set1)
