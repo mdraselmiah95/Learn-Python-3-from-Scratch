@@ -58,3 +58,11 @@ fruits=['apple','banana','grasp']
 print(fruits)
 x,y,z=fruits
 print(y)
+
+py="Python is awesome"
+print(py)
+
+py_one="Python"
+py_two="is"
+py_three="awesome"
+print(py_one,py_two,py_three)
