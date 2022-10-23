@@ -4,3 +4,7 @@ b=4.6
 print(type(b))
 c=4+5
 print(c)
+d=int(5.9)
+print(d)
+e=float(5)
+print(e)
