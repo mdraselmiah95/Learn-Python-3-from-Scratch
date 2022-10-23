@@ -66,3 +66,10 @@ py_one="Python"
 py_two="is"
 py_three="awesome"
 print(py_one,py_two,py_three)
+
+one=400
+two=500
+three=one*two
+print(three)
+List=list("Rasel")
+print(List)
