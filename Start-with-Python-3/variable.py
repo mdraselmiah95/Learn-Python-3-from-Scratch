@@ -52,3 +52,9 @@ Variable names are case-sensitive (age, Age and AGE are three different variable
 '''
 x,y,z='Rohim','Korim',"Ashik"
 print(x,y,z)
+one=two=three="Apple"
+print(one,two,three)
+fruits=['apple','banana','grasp']
+print(fruits)
+x,y,z=fruits
+print(y)
