@@ -43,3 +43,12 @@ print(name_string)
 first_number=4.7
 print(first_number)
 print(type(name_string), type(first_number))
+
+'''
+A variable name must start with a letter or the underscore character
+A variable name cannot start with a number
+A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+Variable names are case-sensitive (age, Age and AGE are three different variables)
+'''
+x,y,z='Rohim','Korim',"Ashik"
+print(x,y,z)
