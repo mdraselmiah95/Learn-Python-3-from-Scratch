@@ -38,3 +38,8 @@ num_one=30
 num_two=50
 sum=num_one+num_two
 print(sum)
+name_string=str(4)
+print(name_string)
+first_number=4.7
+print(first_number)
+print(type(name_string), type(first_number))
