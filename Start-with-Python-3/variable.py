@@ -19,3 +19,6 @@ print(i)
 first_name='Razib'
 last_name='Ahmad'
 print(first_name,last_name)
+age=21
+full_name="My Name is "+" "+first_name+" "+last_name
+print(full_name)
