@@ -98,3 +98,9 @@ print(Dict)
 
 name_two="Ramim the great"
 print(name_two)
+
+number_A=20
+number_B=4
+number_c=5
+result=(number_A/number_B)*number_c
+print(result)
