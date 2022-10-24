@@ -29,6 +29,11 @@ if(3<5):
 
 # This is python comment   
 
+if(10>9):
+    print("This is correct.")
+if(9<10):
+    print("This is not correct.")   
+
 """
 This is a comment
 written in
