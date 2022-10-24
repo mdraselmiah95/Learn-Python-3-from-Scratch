@@ -95,3 +95,6 @@ print(set1)
 
 Dict=dict([(1,"Rasel"),(2,"Miah")])
 print(Dict)
+
+name_two="Ramim the great"
+print(name_two)
