@@ -40,3 +40,10 @@ from time import sleep
 print("This will work ",end="",flush="True")
 sleep(5)
 print("After five second")
+
+ 
+x = "awesome"
+def myf():
+  print("Python is " + x)
+
+myf()
