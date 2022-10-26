@@ -38,9 +38,10 @@ print("I love javascript language",file=file_name)
 from time import sleep
 # output is not flushed here
 print("This will work ",end="",flush="True")
-sleep(5)
+sleep(1)
 print("After five second")
 
 frozen= frozenset({'banana', 'cherry', 'apple'})
 print(frozen)
-print(type(frozen))
+# print(type(frozen))
+
