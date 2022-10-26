@@ -23,6 +23,10 @@ print('Hello world',sep="***")
 '''
 
 #End keyword
+'''
 print("I love Python",end="***")
 print("THis is my friend",end="\n")
 print("THis is my laptop",end="\n")
+'''
+
+print('i love python','hello world',sep="---",end="***")
