@@ -33,3 +33,10 @@ print("THis is my laptop",end="\n")
 
 file_name=open('./learn.txt',"a")
 print("I love javascript language",file=file_name)
+
+
+from time import sleep
+# output is not flushed here
+print("This will work ",end="",flush="True")
+sleep(5)
+print("After five second")

@@ -1,5 +1,2 @@
-I love Python language
-I love Python language
-I love Python language
-I love Python language
+I love javascript language
 I love javascript language
