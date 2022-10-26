@@ -41,9 +41,6 @@ print("This will work ",end="",flush="True")
 sleep(5)
 print("After five second")
 
- 
-x = "awesome"
-def myf():
-  print("Python is " + x)
-
-myf()
+frozen= frozenset({'banana', 'cherry', 'apple'})
+print(frozen)
+print(type(frozen))
