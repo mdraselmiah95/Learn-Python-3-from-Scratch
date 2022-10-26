@@ -29,4 +29,7 @@ print("THis is my friend",end="\n")
 print("THis is my laptop",end="\n")
 '''
 
-print('i love python','hello world',sep="---",end="***")
+# print('i love python','hello world',sep="---",end="***")
+
+file_name=open('./learn.txt',"w")
+print("I love javaScript",file=file_name)
