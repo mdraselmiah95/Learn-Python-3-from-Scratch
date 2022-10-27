@@ -36,3 +36,9 @@ print("This will insert one \\ (backslash).")
 # \' : for using apostrophe or single quote
 print("It\'s alright.")
 print("Hey, \'This is a single quote\'")
+
+# \" : For using quotation
+print("Hey, \"This is double quote\"")
+
+#\r : for Carriage Return
+print("Python is included in CodeSpeedy\r123456")
