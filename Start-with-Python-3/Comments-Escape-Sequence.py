@@ -29,3 +29,10 @@ print("Hello. \nthis will print in a new line.")
 
 # \t : for using tab
 print("This will create\tfour space.")
+
+# \\ : will insert one \
+print("This will insert one \\ (backslash).")
+
+# \' : for using apostrophe or single quote
+print("It\'s alright.")
+print("Hey, \'This is a single quote\'")
