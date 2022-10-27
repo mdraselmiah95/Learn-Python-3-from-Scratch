@@ -21,5 +21,11 @@ def multiply(a,b):
 result=multiply(3,9)
 print(result)
 
-# Print the docstring of multiply function
+# Print the docstring of multiply function Ctrl+/
 print(multiply.__doc__)    
+
+# \n : for creating new line
+print("Hello. \nthis will print in a new line.")
+
+# \t : for using tab
+print("This will create\tfour space.")
