@@ -42,3 +42,11 @@ print("Hey, \"This is double quote\"")
 
 #\r : for Carriage Return
 print("Python is included in CodeSpeedy\r123456")
+
+# \b : for giving backspace
+print("Hello \bWorld")
+print("Hello\bWorld")
+
+# r"" : for using raw string
+print("C:\\Program Files\norton\appx")
+print(r"C:\\Program Files\norton\appx")
