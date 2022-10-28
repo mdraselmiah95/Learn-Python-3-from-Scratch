@@ -50,3 +50,5 @@ print("Hello\bWorld")
 # r"" : for using raw string
 print("C:\\Program Files\norton\appx")
 print(r"C:\\Program Files\norton\appx")
+
+print("This is comments")
