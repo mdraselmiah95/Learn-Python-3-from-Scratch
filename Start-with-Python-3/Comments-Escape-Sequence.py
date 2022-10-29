@@ -51,4 +51,3 @@ print("Hello\bWorld")
 print("C:\\Program Files\norton\appx")
 print(r"C:\\Program Files\norton\appx")
 
-print("This is comments")
